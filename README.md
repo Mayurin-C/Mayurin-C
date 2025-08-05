@@ -9,11 +9,23 @@ IT Infrastructure Specialist & Network Engineer with 5+ years’ experience mana
 
 ---
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white)
+<p align="left">
+  <!-- Networking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="50" height="50"/>
+  
+  <!-- Operating Systems -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server" width="50" height="50"/>
+  
+  <!-- Virtualization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" width="50" height="50"/>
+  
+  <!-- Backup -->
+  <img src="https://img.icons8.com/color/512/veeam.png" alt="Veeam" width="50" height="50"/>
+  
+  <!-- Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg" alt="Security" width="50" height="50"/>
+</p>
 
 ## 🚀 Skills & Tools  
 
