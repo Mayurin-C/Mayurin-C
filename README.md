@@ -11,25 +11,25 @@ IT Infrastructure Specialist & Network Engineer with 5+ years’ experience mana
 
 <p align="left">
   <!-- Cisco -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50" height="50"/>
   
   <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50"/>
   
   <!-- Windows -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows Server" width="50" height="50"/>
   
   <!-- VMware -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="50" height="50"/>
   
   <!-- Veeam -->
-  <img src="https://img.icons8.com/color/344/veeam.png" alt="Veeam" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/veeam/veeam-icon.svg" alt="Veeam" width="50" height="50"/>
   
   <!-- Wireshark -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/>
   
   <!-- Cloudflare -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" alt="Cloudflare" width="80" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="50" height="50"/>
 </p>
 
 ## 🚀 Skills & Tools  
