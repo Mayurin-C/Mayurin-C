@@ -16,35 +16,20 @@ IT Infrastructure Specialist & Network Engineer with 5+ years’ experience mana
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   
-  <!-- Windows Server -->
+  <!-- Windows -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server" width="50" height="50"/>
   
   <!-- VMware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" width="50" height="50"/>
   
   <!-- Veeam -->
-  <img src="https://img.icons8.com/color/512/veeam.png" alt="Veeam" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/344/veeam.png" alt="Veeam" width="50" height="50"/>
   
   <!-- Wireshark -->
-  <img src="https://img.icons8.com/color/512/wireshark.png" alt="Wireshark" width="50" height="50"/>
-  
-  <!-- VLAN -->
-  <img src="https://img.icons8.com/external-flat-icons-maxicons/512/external-networking-technology-flat-flat-icons-maxicons.png" alt="VLAN" width="50" height="50"/>
-  
-  <!-- Firewall -->
-  <img src="https://img.icons8.com/color/512/firewall.png" alt="Firewall" width="50" height="50"/>
-  
-  <!-- Fortinet -->
-  <img src="https://img.icons8.com/color/512/fortinet.png" alt="Fortinet" width="50" height="50"/>
-  
-  <!-- DNS -->
-  <img src="https://img.icons8.com/color/512/dns.png" alt="DNS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/>
   
   <!-- Cloudflare -->
-  <img src="https://img.icons8.com/color/512/cloudflare.png" alt="Cloudflare" width="50" height="50"/>
-  
-  <!-- Security -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/512/external-cyber-security-security-flat-flat-juicy-fish.png" alt="Security" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" alt="Cloudflare" width="80" height="50"/>
 </p>
 
 ## 🚀 Skills & Tools  
