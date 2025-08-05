@@ -2,8 +2,6 @@
 
 **Building secure, scalable, and high‑availability IT infrastructure**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mayurin-C&color=blue&style=flat)
-
 ---
 
 ## 💻 About Me  
