@@ -14,9 +14,9 @@
 ---
 
 🤝 Looking to Collaborate On
-> 🛠 Networking labs, homelab infrastructure projects**, and:
-- 🔐 Open-source tools for **cybersecurity**
-- ⚡ Automation & Cloud** environment projects
+> 🛠 **Networking labs, homelab infrastructure projects**, and:
+- 🔐 **Open-source tools for** **cybersecurity**
+- ⚡ **Automation & Cloud** **environment projects**
 
 ---
 
