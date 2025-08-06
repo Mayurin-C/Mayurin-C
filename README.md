@@ -4,8 +4,41 @@
 
 ---
 
-# 💫 About Me:
- I’m currently working on<br>Building a GitHub portfolio to showcase my practical labs and projects in networking (Cisco, firewalls), virtualization (VMware, KVM), and self-hosted solutions using Raspberry Pi and cloud platforms.<br> I’m looking to collaborate on<br>Networking labs, homelab infrastructure projects, and open-source tools related to cybersecurity, automation, and cloud environments.<br>I’m looking for help with<br>Improving the visual presentation of my GitHub repos, contributing to community-driven networking projects, and fine-tuning my DevOps skills using CI/CD and Infrastructure-as-Code tools.<br>I’m currently learning<br>Advanced networking protocols, containerization (Docker, Kubernetes), and emerging tech like Zero Trust and SD-WAN through real-world homelab deployments and certifications.<br>Ask me about<br>Cisco configurations, VLANs, LACP, network troubleshooting, Pi-hole, VMs, Linux networking, and setting up your own homelab lab from scratch.<br>
+💫 About Me:
+🚀 What I’m Working On
+> 🏗 **Building a GitHub portfolio** to showcase my practical labs and projects in:
+- 🌐 **Networking:** Cisco, Firewalls
+- 🖥 **Virtualization:** VMware, KVM
+- 🏠 **Self-Hosted Solutions:** Raspberry Pi, Cloud platforms
+
+---
+
+🤝 Looking to Collaborate On
+> 🛠 **Networking labs, homelab infrastructure projects**, and:
+- 🔐 Open-source tools for **cybersecurity**
+- ⚡ **Automation & Cloud** environment projects
+
+---
+
+🆘 Looking for Help With
+> 🎨 Improving the **visual presentation** of my GitHub repos  
+> 🌍 Contributing to **community-driven networking projects**  
+> ⚙️ Fine-tuning **DevOps skills** using CI/CD & Infrastructure-as-Code
+
+---
+
+📚 Currently Learning
+> 📡 **Advanced Networking Protocols**  
+> 🐳 **Containerization:** Docker & Kubernetes  
+> 🔒 **Emerging Tech:** Zero Trust, SD-WAN through real-world **homelab deployments** & certifications
+
+---
+
+💬 Ask Me About
+> 🖧 Cisco Configurations, VLANs, LACP**  
+> 🔍 **Network Troubleshooting**  
+> 🛡 **Pi-hole, Linux Networking**  
+> 🏗 Setting up your **own homelab from scratch
 
 # 💻 Tech Stack:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
