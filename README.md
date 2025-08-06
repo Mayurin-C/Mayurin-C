@@ -4,8 +4,23 @@
 
 ---
 
-## 💻 About Me  
-IT Infrastructure Specialist & Network Engineer with 5+ years’ experience managing and optimizing enterprise and maritime IT systems. Skilled in Windows/Linux server administration, network design, virtualization, and cybersecurity.  
+# 💫 About Me:
+ I’m currently working on<br>Building a GitHub portfolio to showcase my practical labs and projects in networking (Cisco, firewalls), virtualization (VMware, KVM), and self-hosted solutions using Raspberry Pi and cloud platforms.<br> I’m looking to collaborate on<br>Networking labs, homelab infrastructure projects, and open-source tools related to cybersecurity, automation, and cloud environments.<br>I’m looking for help with<br>Improving the visual presentation of my GitHub repos, contributing to community-driven networking projects, and fine-tuning my DevOps skills using CI/CD and Infrastructure-as-Code tools.<br>I’m currently learning<br>Advanced networking protocols, containerization (Docker, Kubernetes), and emerging tech like Zero Trust and SD-WAN through real-world homelab deployments and certifications.<br>Ask me about<br>Cisco configurations, VLANs, LACP, network troubleshooting, Pi-hole, VMs, Linux networking, and setting up your own homelab lab from scratch.<br>
+
+# 💻 Tech Stack:
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mayurin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mayurin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mayurin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mayurin&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
